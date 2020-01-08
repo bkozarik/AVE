@@ -1,0 +1,12 @@
+@media (max-width: 1705px) {
+    .main__text {
+        color: #575153;
+        font-size: 150px;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-weight: 700;
+        letter-spacing: 47px;
+        padding-top: 50px;
+        text-align: center;
+    }
+}

@@ -112,11 +112,11 @@ nav > ul {
 }
 
 .nav__right li a:hover ~ .nav__active {
-    opacity: 1;
+    visibility: visible;
 }
 
 .nav__active:hover {
-    opacity: 1;
+    visibility: visible;
 }
 
 
@@ -139,7 +139,7 @@ nav > ul {
 
 }
 .nav__active {
-    opacity: 0;
+    visibility: hidden;
     position: absolute;
     max-width: 467px;
     max-height: 527px;
